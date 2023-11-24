@@ -1,7 +1,7 @@
 {
   "name": "react-use-print",
   "private": false,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "description": "Detect Print in React",
   "main": "./dist/react-use-print.umd.js",
