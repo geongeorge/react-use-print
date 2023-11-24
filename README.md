@@ -2,6 +2,8 @@
 
 This is a simple react hook that lets you detect print and conditionally render components based on @media print.
 
+[Live Demo](https://codesandbox.io/p/sandbox/determined-benz-4mnj6h)
+
 <centre>
 <img src="assets/preview.gif" width="600" />
 </centre>
