@@ -1,6 +1,6 @@
 {
   "name": "react-use-print",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "description": "Detect Print in React",
@@ -45,5 +45,10 @@
     "hooks"
   ],
   "author": "Geon George",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geongeorge/react-use-print"
+  },
+  "homepage": "https://github.com/geongeorge/react-use-print"
 }
